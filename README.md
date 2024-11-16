@@ -19,8 +19,7 @@ Run Segment Anything Model 2 (SAM2) on a **live video stream** with new updates 
 
 # Demos
 
-![Demo](https://github.com/jw-chae/sam2_realtime/blob/main/realtime.mp4)
----
+https://github.com/jw-chae/sam2_realtime/assets/54277078/realtime.mp4
 
 ## Getting Started
 
