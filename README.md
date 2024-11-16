@@ -19,10 +19,11 @@ Run Segment Anything Model 2 (SAM2) on a **live video stream** with new updates 
 
 ## Demos
 <div align="center">
-  <video src="realtime.mp4" width="880" controls>
+  <video src="https://raw.githubusercontent.com/jw-chae/sam2_realtime/main/realtime.mp4" width="880" controls>
     Your browser does not support the video tag.
   </video>
 </div>
+
 
 
 ## Getting Started
