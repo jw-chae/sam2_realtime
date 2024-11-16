@@ -20,7 +20,7 @@ Run Segment Anything Model 2 (SAM2) on a **live video stream** with new updates 
 ## Demos
 <div align="center">
 <p align="center">
-<video src="./sam2_realtime/realtime.mp4" width="880" controls>
+<video src="sam2_realtime/realtime.mp4" width="880" controls>
 Your browser does not support the video tag.
 </video>
 </p>
