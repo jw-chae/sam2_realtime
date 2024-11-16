@@ -22,7 +22,7 @@ Run Segment Anything Model 2 (SAM2) on a **live video stream** with new updates 
 
 <div align="center">
 
-https://github.com/jw-chae/sam2_realtime/assets/jw-chae/realtime.mp4
+https://github.com/jw-chae/sam2_realtime/realtime.mp4
 
 </div>
 
